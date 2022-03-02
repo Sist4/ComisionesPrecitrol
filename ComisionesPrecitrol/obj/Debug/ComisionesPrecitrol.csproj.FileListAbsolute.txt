@@ -1,0 +1,4 @@
+C:\Users\User\Documents\Ejemplos Visual\ComisionesPrecitrol\obj\Debug\ComisionesPrecitrol.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Ejemplos Visual\ComisionesPrecitrol\obj\Debug\ComisionesPrecitrol.Properties.Resources.resources
+C:\Users\User\Documents\Ejemplos Visual\ComisionesPrecitrol\obj\Debug\ComisionesPrecitrol.csproj.GenerateResource.cache
+C:\Users\User\Documents\Ejemplos Visual\ComisionesPrecitrol\obj\Debug\ComisionesPrecitrol.csproj.CoreCompileInputs.cache

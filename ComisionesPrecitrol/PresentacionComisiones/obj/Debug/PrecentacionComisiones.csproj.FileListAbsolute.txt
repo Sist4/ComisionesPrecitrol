@@ -1,0 +1,11 @@
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PrecentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_Empleados.resources
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PrecentacionComisiones\obj\Debug\PrecentacionComisiones.PantallaPrincipal.resources
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PrecentacionComisiones\obj\Debug\PrecentacionComisiones.Properties.Resources.resources
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PrecentacionComisiones\obj\Debug\PrecentacionComisiones.csproj.GenerateResource.Cache
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PrecentacionComisiones\bin\Debug\PrecentacionComisiones.exe.config
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PrecentacionComisiones\bin\Debug\PrecentacionComisiones.exe
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PrecentacionComisiones\bin\Debug\PrecentacionComisiones.pdb
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PrecentacionComisiones\obj\Debug\PrecentacionComisiones.exe
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PrecentacionComisiones\obj\Debug\PrecentacionComisiones.pdb
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PrecentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_Login.resources
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PrecentacionComisiones\obj\Debug\PrecentacionComisiones.csprojResolveAssemblyReference.cache

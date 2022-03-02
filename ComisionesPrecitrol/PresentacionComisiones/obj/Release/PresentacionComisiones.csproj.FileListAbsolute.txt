@@ -1,0 +1,246 @@
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PresentacionComisiones\bin\Release\PrecentacionComisiones.exe
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PresentacionComisiones\bin\Release\PrecentacionComisiones.exe.config
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PresentacionComisiones\bin\Release\NegociosComisiones.dll
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PresentacionComisiones\bin\Release\DatosComisiones.dll
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PresentacionComisiones\bin\Release\NegociosComisiones.pdb
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PresentacionComisiones\bin\Release\DatosComisiones.pdb
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PresentacionComisiones.csprojResolveAssemblyReference.cache
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PresentacionComisiones\obj\Release\Sistemas_Precitrol.Formularios.Frm_Cobranza.resources
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Formularios.Frm_Comision.resources
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Formularios.Frm_Empleados.resources
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PresentacionComisiones\obj\Release\Sistemas_Precitrol.Formularios.Frm_Facturacion.resources
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Formularios.Frm_Login.resources
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Formularios.Frm_Usuarios.resources
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.PantallaPrincipal.resources
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Properties.Resources.resources
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PresentacionComisiones.csproj.GenerateResource.Cache
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.exe
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.pdb
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PresentacionComisiones\bin\Release\PrecentacionComisiones.pdb
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Formularios.Frm_Resume_comisiones.resources
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\bin\Release\PrecentacionComisiones.exe
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\bin\Release\PrecentacionComisiones.exe.config
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\bin\Release\NegociosComisiones.dll
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\bin\Release\DatosComisiones.dll
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\bin\Release\NegociosComisiones.pdb
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\bin\Release\DatosComisiones.pdb
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PresentacionComisiones.csprojResolveAssemblyReference.cache
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Release\Sistemas_Precitrol.Formularios.Frm_Cobranza.resources
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Formularios.Frm_Comision.resources
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Formularios.Frm_Empleados.resources
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Release\Sistemas_Precitrol.Formularios.Frm_Facturacion.resources
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Formularios.Frm_Login.resources
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Formularios.Frm_Resume_comisiones.resources
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Formularios.Frm_Usuarios.resources
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.PantallaPrincipal.resources
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Properties.Resources.resources
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Pruebas.Frm_ComisionPruebas.resources
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PresentacionComisiones.csproj.GenerateResource.Cache
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.exe
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.pdb
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\bin\Release\PrecentacionComisiones.pdb
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\bin\Release\PrecentacionComisiones.exe.config
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\bin\Release\PrecentacionComisiones.exe
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\bin\Release\PrecentacionComisiones.pdb
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\bin\Release\FlashControlV71.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\bin\Release\NegociosComisiones.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\bin\Release\DatosComisiones.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\bin\Release\ShockwaveFlashObjects.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\bin\Release\stdole.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\bin\Release\NegociosComisiones.pdb
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\bin\Release\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\bin\Release\DatosComisiones.pdb
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PresentacionComisiones.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Release\Sistemas_Precitrol.Formularios.Frm_Cobranza.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Formularios.Frm_Comision.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Formularios.Frm_Empleados.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Release\Sistemas_Precitrol.Formularios.Frm_Facturacion.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Formularios.Frm_Login.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Formularios.Frm_Resume_comisiones.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Formularios.Frm_Usuarios.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Frm_Reportes.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.PantallaPrincipal.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Properties.Resources.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Pruebas.Frm_ComisionPruebas.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PresentacionComisiones.csproj.GenerateResource.cache
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PresentacionComisiones.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PresentacionComisiones.csproj.CopyComplete
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.exe
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.pdb
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\bin\Release\PrecentacionComisiones.exe.manifest
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\bin\Release\PrecentacionComisiones.application
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Formularios.Frm_Participacion.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Frm_ReporteComision.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Frm_ReportesFormularios.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.exe.manifest
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.application
+C:\Users\angel\Desktop\WindowsFormsApplication1\PresentacionComisiones\bin\Release\PrecentacionComisiones.exe.config
+C:\Users\angel\Desktop\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.exe
+C:\Users\angel\Desktop\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.pdb
+C:\Users\angel\Desktop\WindowsFormsApplication1\PresentacionComisiones\bin\Release\PrecentacionComisiones.exe.manifest
+C:\Users\angel\Desktop\WindowsFormsApplication1\PresentacionComisiones\bin\Release\PrecentacionComisiones.application
+C:\Users\angel\Desktop\WindowsFormsApplication1\PresentacionComisiones\bin\Release\PrecentacionComisiones.exe
+C:\Users\angel\Desktop\WindowsFormsApplication1\PresentacionComisiones\bin\Release\PrecentacionComisiones.pdb
+C:\Users\angel\Desktop\WindowsFormsApplication1\PresentacionComisiones\bin\Release\NegociosComisiones.dll
+C:\Users\angel\Desktop\WindowsFormsApplication1\PresentacionComisiones\bin\Release\DatosComisiones.dll
+C:\Users\angel\Desktop\WindowsFormsApplication1\PresentacionComisiones\bin\Release\NegociosComisiones.pdb
+C:\Users\angel\Desktop\WindowsFormsApplication1\PresentacionComisiones\bin\Release\DatosComisiones.pdb
+C:\Users\angel\Desktop\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PresentacionComisiones.csprojResolveAssemblyReference.cache
+C:\Users\angel\Desktop\WindowsFormsApplication1\PresentacionComisiones\obj\Release\Sistemas_Precitrol.Formularios.Frm_Cobranza.resources
+C:\Users\angel\Desktop\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Formularios.Frm_Comision.resources
+C:\Users\angel\Desktop\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Formularios.Frm_Empleados.resources
+C:\Users\angel\Desktop\WindowsFormsApplication1\PresentacionComisiones\obj\Release\Sistemas_Precitrol.Formularios.Frm_Facturacion.resources
+C:\Users\angel\Desktop\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Formularios.Frm_Login.resources
+C:\Users\angel\Desktop\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Formularios.Frm_Participacion.resources
+C:\Users\angel\Desktop\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Formularios.Frm_Resume_comisiones.resources
+C:\Users\angel\Desktop\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Formularios.Frm_Usuarios.resources
+C:\Users\angel\Desktop\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Formularios.Pruebas_comisiones.resources
+C:\Users\angel\Desktop\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Frm_Reportes.resources
+C:\Users\angel\Desktop\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Frm_ReporteComision.resources
+C:\Users\angel\Desktop\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Frm_ReportesFormularios.resources
+C:\Users\angel\Desktop\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.PantallaPrincipal.resources
+C:\Users\angel\Desktop\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Properties.Resources.resources
+C:\Users\angel\Desktop\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Pruebas.Frm_ComisionPruebas.resources
+C:\Users\angel\Desktop\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PresentacionComisiones.csproj.GenerateResource.Cache
+C:\Users\angel\Desktop\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.exe.manifest
+C:\Users\angel\Desktop\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.application
+C:\Users\Sistemas\Desktop\WindowsFormsApplication1\PresentacionComisiones\bin\Release\PrecentacionComisiones.exe.config
+C:\Users\Sistemas\Desktop\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.exe
+C:\Users\Sistemas\Desktop\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.pdb
+C:\Users\Sistemas\Desktop\WindowsFormsApplication1\PresentacionComisiones\bin\Release\PrecentacionComisiones.exe.manifest
+C:\Users\Sistemas\Desktop\WindowsFormsApplication1\PresentacionComisiones\bin\Release\PrecentacionComisiones.application
+C:\Users\Sistemas\Desktop\WindowsFormsApplication1\PresentacionComisiones\bin\Release\PrecentacionComisiones.exe
+C:\Users\Sistemas\Desktop\WindowsFormsApplication1\PresentacionComisiones\bin\Release\PrecentacionComisiones.pdb
+C:\Users\Sistemas\Desktop\WindowsFormsApplication1\PresentacionComisiones\bin\Release\NegociosComisiones.dll
+C:\Users\Sistemas\Desktop\WindowsFormsApplication1\PresentacionComisiones\bin\Release\DatosComisiones.dll
+C:\Users\Sistemas\Desktop\WindowsFormsApplication1\PresentacionComisiones\bin\Release\NegociosComisiones.pdb
+C:\Users\Sistemas\Desktop\WindowsFormsApplication1\PresentacionComisiones\bin\Release\DatosComisiones.pdb
+C:\Users\Sistemas\Desktop\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PresentacionComisiones.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas\Desktop\WindowsFormsApplication1\PresentacionComisiones\obj\Release\Sistemas_Precitrol.Formularios.Frm_Cobranza.resources
+C:\Users\Sistemas\Desktop\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Formularios.Frm_Comision.resources
+C:\Users\Sistemas\Desktop\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Formularios.Frm_Empleados.resources
+C:\Users\Sistemas\Desktop\WindowsFormsApplication1\PresentacionComisiones\obj\Release\Sistemas_Precitrol.Formularios.Frm_Facturacion.resources
+C:\Users\Sistemas\Desktop\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Formularios.Frm_Login.resources
+C:\Users\Sistemas\Desktop\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Formularios.Frm_Participacion.resources
+C:\Users\Sistemas\Desktop\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Formularios.Frm_Resume_comisiones.resources
+C:\Users\Sistemas\Desktop\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Formularios.Frm_Usuarios.resources
+C:\Users\Sistemas\Desktop\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Formularios.Pruebas_comisiones.resources
+C:\Users\Sistemas\Desktop\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Frm_Reportes.resources
+C:\Users\Sistemas\Desktop\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Frm_ReporteComision.resources
+C:\Users\Sistemas\Desktop\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Frm_ReportesFormularios.resources
+C:\Users\Sistemas\Desktop\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.PantallaPrincipal.resources
+C:\Users\Sistemas\Desktop\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Properties.Resources.resources
+C:\Users\Sistemas\Desktop\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Pruebas.Frm_ComisionPruebas.resources
+C:\Users\Sistemas\Desktop\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PresentacionComisiones.csproj.GenerateResource.Cache
+C:\Users\Sistemas\Desktop\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.exe.manifest
+C:\Users\Sistemas\Desktop\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.application
+C:\Users\Sistemas\Desktop\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Frm_ReporteComisionGlabales.resources
+C:\Users\angel\Desktop\Programa Comisiones\WindowsFormsApplication1\PresentacionComisiones\bin\Release\PrecentacionComisiones.exe.config
+C:\Users\angel\Desktop\Programa Comisiones\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.exe
+C:\Users\angel\Desktop\Programa Comisiones\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.pdb
+C:\Users\angel\Desktop\Programa Comisiones\WindowsFormsApplication1\PresentacionComisiones\bin\Release\PrecentacionComisiones.exe.manifest
+C:\Users\angel\Desktop\Programa Comisiones\WindowsFormsApplication1\PresentacionComisiones\bin\Release\PrecentacionComisiones.application
+C:\Users\angel\Desktop\Programa Comisiones\WindowsFormsApplication1\PresentacionComisiones\bin\Release\PrecentacionComisiones.exe
+C:\Users\angel\Desktop\Programa Comisiones\WindowsFormsApplication1\PresentacionComisiones\bin\Release\PrecentacionComisiones.pdb
+C:\Users\angel\Desktop\Programa Comisiones\WindowsFormsApplication1\PresentacionComisiones\bin\Release\NegociosComisiones.dll
+C:\Users\angel\Desktop\Programa Comisiones\WindowsFormsApplication1\PresentacionComisiones\bin\Release\DatosComisiones.dll
+C:\Users\angel\Desktop\Programa Comisiones\WindowsFormsApplication1\PresentacionComisiones\bin\Release\NegociosComisiones.pdb
+C:\Users\angel\Desktop\Programa Comisiones\WindowsFormsApplication1\PresentacionComisiones\bin\Release\DatosComisiones.pdb
+C:\Users\angel\Desktop\Programa Comisiones\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PresentacionComisiones.csprojResolveAssemblyReference.cache
+C:\Users\angel\Desktop\Programa Comisiones\WindowsFormsApplication1\PresentacionComisiones\obj\Release\Sistemas_Precitrol.Formularios.Frm_Cobranza.resources
+C:\Users\angel\Desktop\Programa Comisiones\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Formularios.Frm_Comision.resources
+C:\Users\angel\Desktop\Programa Comisiones\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Formularios.Frm_Empleados.resources
+C:\Users\angel\Desktop\Programa Comisiones\WindowsFormsApplication1\PresentacionComisiones\obj\Release\Sistemas_Precitrol.Formularios.Frm_Facturacion.resources
+C:\Users\angel\Desktop\Programa Comisiones\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Formularios.Frm_Login.resources
+C:\Users\angel\Desktop\Programa Comisiones\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Formularios.Frm_Participacion.resources
+C:\Users\angel\Desktop\Programa Comisiones\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Formularios.Frm_Resume_comisiones.resources
+C:\Users\angel\Desktop\Programa Comisiones\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Formularios.Frm_Usuarios.resources
+C:\Users\angel\Desktop\Programa Comisiones\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Formularios.Pruebas_comisiones.resources
+C:\Users\angel\Desktop\Programa Comisiones\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Frm_ReporteComisionGlabales.resources
+C:\Users\angel\Desktop\Programa Comisiones\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Frm_Reportes.resources
+C:\Users\angel\Desktop\Programa Comisiones\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Frm_ReporteComision.resources
+C:\Users\angel\Desktop\Programa Comisiones\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Frm_ReportesFormularios.resources
+C:\Users\angel\Desktop\Programa Comisiones\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.PantallaPrincipal.resources
+C:\Users\angel\Desktop\Programa Comisiones\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Properties.Resources.resources
+C:\Users\angel\Desktop\Programa Comisiones\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Pruebas.Frm_ComisionPruebas.resources
+C:\Users\angel\Desktop\Programa Comisiones\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PresentacionComisiones.csproj.GenerateResource.Cache
+C:\Users\angel\Desktop\Programa Comisiones\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.exe.manifest
+C:\Users\angel\Desktop\Programa Comisiones\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.application
+C:\Users\angel\Desktop\Programa Comisiones\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Frm_ReporteDetalle.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\bin\Release\PrecentacionComisiones.exe.config
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.exe
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.pdb
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\bin\Release\PrecentacionComisiones.exe.manifest
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\bin\Release\PrecentacionComisiones.application
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\bin\Release\PrecentacionComisiones.exe
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\bin\Release\PrecentacionComisiones.pdb
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\bin\Release\NegociosComisiones.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\bin\Release\DatosComisiones.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\bin\Release\NegociosComisiones.pdb
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\bin\Release\DatosComisiones.pdb
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PresentacionComisiones.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\obj\Release\Sistemas_Precitrol.Formularios.Frm_Cobranza.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Formularios.Frm_Comision.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Formularios.Frm_Empleados.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\obj\Release\Sistemas_Precitrol.Formularios.Frm_Facturacion.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Formularios.Frm_Login.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Formularios.Frm_Participacion.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Formularios.Frm_Resume_comisiones.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Formularios.Frm_Usuarios.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Formularios.Pruebas_comisiones.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Frm_ReporteComisionGlabales.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Frm_ReporteDetalle.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Frm_Reportes.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Frm_ReporteComision.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Frm_ReportesFormularios.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.PantallaPrincipal.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Properties.Resources.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.Pruebas.Frm_ComisionPruebas.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PresentacionComisiones.csproj.GenerateResource.Cache
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.exe.manifest
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.application
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\bin\Release\FlashControlV71.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\bin\Release\ShockwaveFlashObjects.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\bin\Release\stdole.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\bin\Release\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PresentacionComisiones.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PresentacionComisiones.csproj.CopyComplete
+D:\Users\SISTEMAS PRECITROL\Desktop\Proyectos Precitrol\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV9 MAIL\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PresentacionComisiones.csprojAssemblyReference.cache
+D:\Users\SISTEMAS PRECITROL\Desktop\Proyectos Precitrol\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV9 MAIL\WindowsFormsApplication1\PresentacionComisiones\obj\Release\Interop.Microsoft.Office.Core.dll
+D:\Users\SISTEMAS PRECITROL\Desktop\Proyectos Precitrol\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV9 MAIL\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PresentacionComisiones.csproj.ResolveComReference.cache
+D:\Users\SISTEMAS PRECITROL\Desktop\Proyectos Precitrol\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV9 MAIL\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.exe
+D:\Users\SISTEMAS PRECITROL\Desktop\Proyectos Precitrol\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV9 MAIL\WindowsFormsApplication1\PresentacionComisiones\obj\Release\PrecentacionComisiones.pdb

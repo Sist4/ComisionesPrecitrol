@@ -1,0 +1,256 @@
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PrecentacionComisiones\bin\Debug\PrecentacionComisiones.exe.config
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PrecentacionComisiones\bin\Debug\PrecentacionComisiones.exe
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PrecentacionComisiones\bin\Debug\PrecentacionComisiones.pdb
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PrecentacionComisiones\obj\Debug\PresentacionComisiones.csprojResolveAssemblyReference.cache
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PrecentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_Empleados.resources
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PrecentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_Login.resources
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PrecentacionComisiones\obj\Debug\PrecentacionComisiones.PantallaPrincipal.resources
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PrecentacionComisiones\obj\Debug\PrecentacionComisiones.Properties.Resources.resources
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PrecentacionComisiones\obj\Debug\PresentacionComisiones.csproj.GenerateResource.Cache
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PrecentacionComisiones\obj\Debug\PrecentacionComisiones.exe
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PrecentacionComisiones\obj\Debug\PrecentacionComisiones.pdb
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PrecentacionComisiones\bin\Debug\NegociosComisiones.dll
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PrecentacionComisiones\bin\Debug\NegociosComisiones.pdb
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\PrecentacionComisiones.exe
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\PrecentacionComisiones.exe.config
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\NegociosComisiones.dll
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\DatosComisiones.dll
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\NegociosComisiones.pdb
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\DatosComisiones.pdb
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PresentacionComisiones.csprojResolveAssemblyReference.cache
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\Sistemas_Precitrol.Formularios.Frm_Cobranza.resources
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_Comision.resources
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_Empleados.resources
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\Sistemas_Precitrol.Formularios.Frm_Facturacion.resources
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_Login.resources
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_Usuarios.resources
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.PantallaPrincipal.resources
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Properties.Resources.resources
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PresentacionComisiones.csproj.GenerateResource.Cache
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.exe
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.pdb
+C:\Users\SPC\Desktop\Proyectos Precitrol\Proyectos_Precitrol\ComisionesV2\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\PrecentacionComisiones.pdb
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\PrecentacionComisiones.exe.config
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\PrecentacionComisiones.exe
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\PrecentacionComisiones.pdb
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\NegociosComisiones.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\DatosComisiones.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\NegociosComisiones.pdb
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\DatosComisiones.pdb
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PresentacionComisiones.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\Sistemas_Precitrol.Formularios.Frm_Cobranza.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_Comision.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_Empleados.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\Sistemas_Precitrol.Formularios.Frm_Facturacion.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_Login.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_Resume_comisiones.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_Usuarios.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Frm_Reportes.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.PantallaPrincipal.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Properties.Resources.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Pruebas.Frm_ComisionPruebas.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PresentacionComisiones.csproj.GenerateResource.cache
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.exe
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.pdb
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_Participacion.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Frm_ReportesFormularios.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Frm_ReporteComision.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\PrecentacionComisiones.exe.manifest
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\PrecentacionComisiones.application
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.exe.manifest
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.application
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Proyectos_Precitrol v2\ComisionesV3\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Pruebas_comisiones.resources
+C:\Users\angel\Desktop\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\PrecentacionComisiones.exe.config
+C:\Users\angel\Desktop\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.exe
+C:\Users\angel\Desktop\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.pdb
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\PrecentacionComisiones.exe.config
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.exe
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.pdb
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\PrecentacionComisiones.exe.manifest
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\PrecentacionComisiones.application
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\PrecentacionComisiones.exe
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\PrecentacionComisiones.pdb
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\NegociosComisiones.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\DatosComisiones.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\NegociosComisiones.pdb
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\DatosComisiones.pdb
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PresentacionComisiones.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\Sistemas_Precitrol.Formularios.Frm_Cobranza.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_Comision.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_Empleados.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\Sistemas_Precitrol.Formularios.Frm_Facturacion.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_Login.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_Participacion.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_Resume_comisiones.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_Usuarios.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Pruebas_comisiones.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Frm_ReporteComisionGlabales.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Frm_ReporteDetalle.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Frm_Reportes.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Frm_ReporteComision.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Frm_ReportesFormularios.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.PantallaPrincipal.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Properties.Resources.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Pruebas.Frm_ComisionPruebas.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PresentacionComisiones.csproj.GenerateResource.Cache
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.exe.manifest
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV4\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.application
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV5\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\PrecentacionComisiones.exe.config
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV5\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\PrecentacionComisiones.exe.manifest
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV5\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\PrecentacionComisiones.application
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV5\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\PrecentacionComisiones.exe
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV5\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\PrecentacionComisiones.pdb
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV5\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\NegociosComisiones.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV5\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\DatosComisiones.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV5\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\NegociosComisiones.pdb
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV5\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\DatosComisiones.pdb
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV5\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PresentacionComisiones.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV5\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\Sistemas_Precitrol.Formularios.Frm_Cobranza.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV5\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_Comision.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV5\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_ComisionesFacturas.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV5\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_Empleados.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV5\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\Sistemas_Precitrol.Formularios.Frm_Facturacion.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV5\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_Login.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV5\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_Participacion.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV5\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_Resume_comisiones.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV5\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_Usuarios.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV5\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Pruebas_comisiones.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV5\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Frm_PantallaPrincipal.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV5\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Frm_ReporteComisionGlabales.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV5\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Frm_ReporteDetalle.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV5\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Frm_Reportes.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV5\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Frm_ReporteComision.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV5\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Frm_ReportesFormularios.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV5\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.PantallaPrincipal.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV5\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Properties.Resources.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV5\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Pruebas.Frm_ComisionPruebas.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV5\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PresentacionComisiones.csproj.GenerateResource.Cache
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV5\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.exe.manifest
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV5\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.application
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV5\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.exe
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV5\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.pdb
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV6\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PresentacionComisiones.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV6\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PresentacionComisiones.csproj.ResolveComReference.cache
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV6\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Excel.Frm_Excel.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV6\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\Sistemas_Precitrol.Formularios.Frm_Cobranza.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV6\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_Comision.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV6\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_ComisionesFacturas.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV6\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_Empleados.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV6\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\Sistemas_Precitrol.Formularios.Frm_Facturacion.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV6\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_Login.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV6\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_Participacion.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV6\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_Resume_comisiones.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV6\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_Usuarios.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV6\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Pruebas_comisiones.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV6\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Frm_PantallaPrincipal.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV6\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Frm_ReporteComisionGlabales.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV6\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Frm_ReporteDetalle.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV6\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Frm_Reportes.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV6\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Frm_ReporteComision.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV6\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Frm_ReportesFormularios.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV6\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.PantallaPrincipal.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV6\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Properties.Resources.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV6\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Pruebas.Frm_ComisionPruebas.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV6\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PresentacionComisiones.csproj.GenerateResource.Cache
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV6\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV6\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\PrecentacionComisiones.exe.config
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV6\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\PrecentacionComisiones.exe.manifest
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV6\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\PrecentacionComisiones.application
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV6\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\PrecentacionComisiones.exe
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV6\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\PrecentacionComisiones.pdb
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV6\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\NegociosComisiones.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV6\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\DatosComisiones.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV6\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\NegociosComisiones.pdb
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV6\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\DatosComisiones.pdb
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV6\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.exe.manifest
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV6\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.application
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV6\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.exe
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV6\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.pdb
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV6\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Reportes_Formularios.Frm_ReporteCobranza.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV6\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Reportes_Formularios.Frm_ReporteComisionesEmpleados.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV6\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Reportes_Formularios.Frm_ReporteComisionesGlobales.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV6\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_LoginV2.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV7\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\PrecentacionComisiones.exe.config
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV7\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV7\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PresentacionComisiones.csproj.ResolveComReference.cache
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV7\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.exe
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV7\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.pdb
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV7\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\PrecentacionComisiones.exe.manifest
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV7\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\PrecentacionComisiones.application
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV7\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\PrecentacionComisiones.exe
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV7\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\PrecentacionComisiones.pdb
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV7\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\NegociosComisiones.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV7\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\DatosComisiones.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV7\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\NegociosComisiones.pdb
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV7\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\DatosComisiones.pdb
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV7\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PresentacionComisiones.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV7\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Excel.Frm_Excel.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV7\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\Sistemas_Precitrol.Formularios.Frm_Cobranza.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV7\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_Comision.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV7\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_ComisionesFacturas.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV7\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_Empleados.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV7\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\Sistemas_Precitrol.Formularios.Frm_Facturacion.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV7\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_Login.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV7\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_LoginV2.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV7\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_Participacion.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV7\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_Resume_comisiones.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV7\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_Usuarios.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV7\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Pruebas_comisiones.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV7\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Reportes_Formularios.Frm_ReporteCobranza.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV7\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Reportes_Formularios.Frm_ReporteComisionesEmpleados.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV7\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Reportes_Formularios.Frm_ReporteComisionesGlobales.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV7\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Frm_PantallaPrincipal.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV7\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Frm_ReporteComisionGlabales.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV7\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Frm_ReporteDetalle.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV7\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Frm_Reportes.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV7\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Frm_ReporteComision.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV7\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Frm_ReportesFormularios.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV7\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.PantallaPrincipal.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV7\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Properties.Resources.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV7\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Pruebas.Frm_ComisionPruebas.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV7\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PresentacionComisiones.csproj.GenerateResource.Cache
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV7\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.exe.manifest
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV7\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.application
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV8 Metrologia\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\PrecentacionComisiones.exe.config
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV8 Metrologia\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV8 Metrologia\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PresentacionComisiones.csproj.ResolveComReference.cache
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV8 Metrologia\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.exe
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV8 Metrologia\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.pdb
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV8 Metrologia\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\PrecentacionComisiones.exe.manifest
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV8 Metrologia\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\PrecentacionComisiones.application
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV8 Metrologia\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\PrecentacionComisiones.exe
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV8 Metrologia\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\PrecentacionComisiones.pdb
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV8 Metrologia\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\NegociosComisiones.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV8 Metrologia\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\DatosComisiones.dll
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV8 Metrologia\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\NegociosComisiones.pdb
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV8 Metrologia\WindowsFormsApplication1\PresentacionComisiones\bin\Debug\DatosComisiones.pdb
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV8 Metrologia\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PresentacionComisiones.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV8 Metrologia\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Excel.Frm_Excel.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV8 Metrologia\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\Sistemas_Precitrol.Formularios.Frm_Cobranza.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV8 Metrologia\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_CobranzaM.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV8 Metrologia\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_Comision.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV8 Metrologia\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_ComisionesFacturas.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV8 Metrologia\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Reportes_Formularios.Frm_DetalleM.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV8 Metrologia\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_Empleados.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV8 Metrologia\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\Sistemas_Precitrol.Formularios.Frm_Facturacion.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV8 Metrologia\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_Login.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV8 Metrologia\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_LoginV2.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV8 Metrologia\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_Participacion.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV8 Metrologia\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_Resume_comisiones.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV8 Metrologia\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Frm_Usuarios.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV8 Metrologia\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Pruebas_comisiones.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV8 Metrologia\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Reportes_Formularios.Frm_ReporteCobranza.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV8 Metrologia\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Reportes_Formularios.Frm_ReporteComisionesEmpleados.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV8 Metrologia\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Formularios.Reportes_Formularios.Frm_ReporteComisionesGlobales.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV8 Metrologia\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Frm_PantallaPrincipal.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV8 Metrologia\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Frm_ReporteComisionGlabales.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV8 Metrologia\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Frm_ReporteDetalle.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV8 Metrologia\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Frm_Reportes.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV8 Metrologia\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Frm_ReporteComision.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV8 Metrologia\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Frm_ReportesFormularios.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV8 Metrologia\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.PantallaPrincipal.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV8 Metrologia\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Properties.Resources.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV8 Metrologia\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.Pruebas.Frm_ComisionPruebas.resources
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV8 Metrologia\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PresentacionComisiones.csproj.GenerateResource.Cache
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV8 Metrologia\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.exe.manifest
+C:\Users\Sistemas\Desktop\Proyectos Precitrol\Comisiones Precitrol(AA)\ComisionV8 Metrologia\WindowsFormsApplication1\PresentacionComisiones\obj\Debug\PrecentacionComisiones.application
